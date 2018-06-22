@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\par1\par0\par0\par0\source.cpp(7): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  par0.vcxproj -> C:\par1\par0\par0\Debug\par0.exe

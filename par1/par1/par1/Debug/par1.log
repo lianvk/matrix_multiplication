@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\par1\par1\par1\source.cpp(34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\par1\par1\par1\source.cpp(35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  par1.vcxproj -> C:\par1\par1\Debug\par1.exe

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\par1\par2\par2\par2\source.cpp(65): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\par1\par2\par2\par2\source.cpp(58): warning C4101: 'j': unreferenced local variable
+c:\par1\par2\par2\par2\source.cpp(58): warning C4101: 'i': unreferenced local variable
+  par2.vcxproj -> C:\par1\par2\par2\Debug\par2.exe
